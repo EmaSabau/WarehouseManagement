@@ -1,13 +1,15 @@
-
+---
 ### TABLE OF CONTENT
 
-1. Assignment Objective ........................................................................................................................................... 3  
-2. Problem Analysis, Modeling, Scenarios, Use Cases ......................................................................................... 3  
-3. Design ................................................................................................................................................................... 4  
-4. Implementation ....................................................................................................................................................... 6  
-5. Results ............................................................................................................. Error! Bookmark not defined.  
-6. Conclusions .......................................................................................................................................................... 7  
-7. Bibliography ......................................................................................................................................................... 8  
+1. Assignment Objective   
+2. Problem Analysis, Modeling, Scenarios, Use Cases 
+3. Design  
+4. Implementation   
+5. Results  
+6. Conclusions 
+7. Bibliography  
+
+---
 
 ### 1. Assignment Objective
 
@@ -20,6 +22,8 @@ The task was to design and implement an application for managing customer orders
 - Implemented the order management application
 - Tested the order management application
 
+---
+
 ### 2. Problem Analysis, Modeling, Scenarios, Use Cases
 
 2.1. Functional Requirements  
@@ -30,6 +34,8 @@ The application should allow an employee to create an order by selecting the cus
 2.2. Non-Functional Requirements  
 The application should be intuitive and easy to use for the user.  
 The application should help streamline the database.
+
+---
 
 ### 3. Design
 
@@ -49,6 +55,7 @@ In the Orders window, an order can be made by selecting the client and the produ
 
 ![Screenshot 2025-03-02 130652](https://github.com/user-attachments/assets/29b06a31-c5d2-4dec-8f41-700486dff4cc)
 
+---
 
 ### 4. Implementation
 
@@ -74,9 +81,13 @@ These classes are used for creating the graphical interface and its functionalit
 Classes: Start, Reflection  
 The Reflection class uses reflection techniques to create a method that receives a list of objects and generates the table header by extracting, through reflection, the properties of the object, and then populates the table with the values of the elements from the list.
 
+---
+
 ### 5. Conclusions
 
 The conclusions will present what was learned from the assignment, including possible future developments.
+
+---
 
 ### 6. Bibliography
 
@@ -85,5 +96,5 @@ The conclusions will present what was learned from the assignment, including pos
 3. SQL dump file generation - dev.mysql.com  
 4. Javadoc - [http://www.baeldung.com/javadoc](http://www.baeldung.com/javadoc)
 
-
+---
 
